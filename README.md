@@ -6,7 +6,8 @@
 <br>
 #### By the end of the workshop, you will have the techniques to be able to:
 - Develop and share code using the Spyder IDE and Jupter notebook editor in the Anaconda environment
-- Evaluate and clean datasets with the pandas library
+- Communicate why Pandas dataframes are a core part of using Pandas for data science
+- Evaluate and clean datasets with the Pandas library
 - Create visualizations to evaluate data and communicate results
 
 
