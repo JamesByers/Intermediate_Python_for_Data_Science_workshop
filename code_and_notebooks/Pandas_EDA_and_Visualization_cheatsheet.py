@@ -1,6 +1,6 @@
 '''
 Pandas EDA and Visualization
-Author: Joseph Nelson(DC)
+Author: General Assembly
 '''
 
 import pandas as pd
