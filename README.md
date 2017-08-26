@@ -12,7 +12,6 @@
 <br>
 
 #### [Agenda](https://docs.google.com/spreadsheets/d/1xGf4LR0f5yc_1S5SiD65ZjIV739RuA71WZDbv_qd5m8/edit#gid=1064568266)
-<br>
 
 #### [Hierarchy of Analyst and Data Scientist skills](https://docs.google.com/spreadsheets/d/1RAcC44o3crC2ZeCmtrELibV1VyEB5ecnBHZKXXXZI6M/edit#gid=1401012830])
 <br>
