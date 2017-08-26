@@ -13,8 +13,7 @@
 <br>
 <br>
 
-### Agenda
-The workshop agenda is [here](https://docs.google.com/spreadsheets/d/1xGf4LR0f5yc_1S5SiD65ZjIV739RuA71WZDbv_qd5m8/edit#gid=1064568266)
+### Agenda The workshop agenda is [here](https://docs.google.com/spreadsheets/d/1xGf4LR0f5yc_1S5SiD65ZjIV739RuA71WZDbv_qd5m8/edit#gid=1064568266)
 <br>
 <br>
 <br>
